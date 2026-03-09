@@ -11,11 +11,12 @@
  
 .container1{
   width:100%;
-  max-width:800px;
+  
 }
 
 body {
   display: flex;
+  flex-direction:column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
